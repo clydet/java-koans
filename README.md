@@ -25,3 +25,7 @@ Developing a Koan:
 Something's wrong:
 ==================
 * If the koans app is constantly timing out compiling a koan, your computer may be too slow to compile the koan classes with the default timeout value. Update the compile_timeout_in_ms property in koans/app/config/config.properties with a larger value and try again.
+
+
+https://github.com/clydet/java-koans/assets/1957663/e59081bd-7a66-48fd-af97-5a086eb60ff5
+
